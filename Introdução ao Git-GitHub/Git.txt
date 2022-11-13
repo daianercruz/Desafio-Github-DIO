@@ -1,0 +1,6 @@
+Site para baixar o Git:
+https://git-scm.com/download/win
+
+
+Documentação do Git:
+https://git-scm.com/docs
